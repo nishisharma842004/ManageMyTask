@@ -6,27 +6,27 @@ A beautiful, full-featured task management application built with React and Fire
 
 ## Features ✨
 
-- **Secure Authentication** 🔒
+- Secure Authentication
   - Login/Signup with email & password
   - Protected routes for logged-in users
 
-- **Smart Task Management** ✅
+- Smart Task Management
   - Add, edit, and delete tasks
   - Mark tasks as complete
   - Set priorities (High/Medium/Low)
   - Add due dates and categories
 
-- **Beautiful Interface** 🎨
+- Beautiful Interface
   - Clean, responsive design
   - Dark/Light mode toggle
   - Task statistics dashboard
 
-- **Powered by Firebase** 🔥
+- Powered by Firebase
   - Real-time data sync
   - Secure cloud database
   - Reliable authentication
 
-## Getting Started 🛠️
+
 
 ### Prerequisites
 - Node.js (v14+ recommended)
